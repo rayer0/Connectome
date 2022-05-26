@@ -10,6 +10,8 @@ Welcome to website's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   code
+
 
 
 Indices and tables
