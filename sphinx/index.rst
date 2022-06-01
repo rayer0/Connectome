@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to website's documentation!
+Brain Science
 ===================================
 
 This a description of this website. This is just an example website.
@@ -31,7 +31,7 @@ Hope this project yuan man cheng gong!
 
    summary
    code
-
+   example of markdownfile
 
 
 Indices and tables

@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'website'
-copyright = '2022, ray'
-author = 'ray'
+project = 'Brain Science'
+copyright = '2022, Harvard University'
+author = 'Harvard University'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
