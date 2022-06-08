@@ -1,4 +1,4 @@
-.. website documentation master file, created by
+   .. website documentation master file, created by
    sphinx-quickstart on Thu May 26 15:42:16 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -9,13 +9,11 @@ Brain Science
 This a description of this website. This is just an example website.
 I just want to see if i put more words in, what will happen to the theme.
 
-
 This is just pointless, stop reading from here. Check something else.
 
 Stop reading. thank you.
 
 Have a nice day.
-
 
 I just tested, the width of the theme would become larger, which is good.
 
@@ -31,7 +29,8 @@ Hope this project yuan man cheng gong!
 
    summary
    code
-   example of markdownfile
+   mkdown
+
 
 
 Indices and tables
