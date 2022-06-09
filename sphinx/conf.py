@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Brain Science'
+project = 'Connectome'
 copyright = '2022, Harvard University'
 author = 'Harvard University'
 
