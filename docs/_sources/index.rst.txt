@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Brain Science
+Connectome
 ===================================
 
 This a description of this website. This is just an example website.
